@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-javascript-client",
+  "version": "1.0.0",
+  "description": "Sample RabbitMQ Javascript client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmudimi/rabbitmq-javascript-client.git"
+  },
+  "author": "Hemakumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmudimi/rabbitmq-javascript-client/issues"
+  },
+  "homepage": "https://github.com/hmudimi/rabbitmq-javascript-client#readme",
+  "keywords": [],
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
