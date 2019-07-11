@@ -1,21 +1,22 @@
 {
-  "name": "rabbitmq-javascript-client",
+  "name": "rabbitmq-nodejs-client",
   "version": "1.0.0",
-  "description": "Sample RabbitMQ Javascript client",
+  "description": "Sample RabbitMQ Javascript/Nodejs client",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hmudimi/rabbitmq-javascript-client.git"
+    "url": "git+https://github.com/hmudimi/rabbitmq-nodejs-client.git"
   },
   "author": "Hemakumar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hmudimi/rabbitmq-javascript-client/issues"
+    "url": "https://github.com/hmudimi/rabbitmq-nodejs-client/issues"
   },
-  "homepage": "https://github.com/hmudimi/rabbitmq-javascript-client#readme",
+  "homepage": "https://github.com/hmudimi/rabbitmq-nodejs-client#readme",
   "keywords": [],
   "dependencies": {
     "amqplib": "^0.5.3"
