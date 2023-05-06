@@ -19,6 +19,6 @@
   "homepage": "https://github.com/hmudimi/rabbitmq-nodejs-client#readme",
   "keywords": [],
   "dependencies": {
-    "amqplib": "^0.5.3"
+    "amqplib": "^0.10.3"
   }
 }
